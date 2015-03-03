@@ -17,3 +17,6 @@
 
 # Ignore cloud9 metadata
 /.c9
+
+# Ignore spring files for guard testing suite
+spring/*.pid
