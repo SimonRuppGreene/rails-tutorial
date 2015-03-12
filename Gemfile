@@ -40,6 +40,7 @@ gem 'spring',        group: :development
 =end
 
 gem 'rails', '4.2.0'
+gem 'bootstrap-sass', '3.2.0.0'
 gem 'sass-rails', '5.0.1'
 gem 'uglifier', '2.5.3'
 gem 'coffee-rails', '4.1.0'
